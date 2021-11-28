@@ -12,9 +12,3 @@ footer address img {
     width: 10em;
     margin-top: 10px;
 }
-
-.footer-flexbox {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-}
